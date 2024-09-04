@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C\\C\u8BED\u8A00\u5B9E\u73B0\u6570\u636E\u7ED3\u6784\\\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D881D26F-AA58-4CA0-9BCB-6DB90FC05D6D}|\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D.vcxproj|D:\\code\\C\\C\u8BED\u8A00\u5B9E\u73B0\u6570\u636E\u7ED3\u6784\\\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D881D26F-AA58-4CA0-9BCB-6DB90FC05D6D}|\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881D26F-AA58-4CA0-9BCB-6DB90FC05D6D}|\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D.vcxproj|D:\\code\\C\\C\u8BED\u8A00\u5B9E\u73B0\u6570\u636E\u7ED3\u6784\\\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D881D26F-AA58-4CA0-9BCB-6DB90FC05D6D}|\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D.vcxproj|solutionrelative:List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881D26F-AA58-4CA0-9BCB-6DB90FC05D6D}|\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D.vcxproj|D:\\code\\C\\C\u8BED\u8A00\u5B9E\u73B0\u6570\u636E\u7ED3\u6784\\\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D881D26F-AA58-4CA0-9BCB-6DB90FC05D6D}|\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D.vcxproj|solutionrelative:List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.h",
+              "DocumentMoniker": "D:\\code\\C\\C\u8BED\u8A00\u5B9E\u73B0\u6570\u636E\u7ED3\u6784\\\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D\\List.h",
+              "RelativeDocumentMoniker": "List.h",
+              "ToolTip": "D:\\code\\C\\C\u8BED\u8A00\u5B9E\u73B0\u6570\u636E\u7ED3\u6784\\\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D\\List.h",
+              "RelativeToolTip": "List.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-04T12:25:09.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cpp",
+              "DocumentMoniker": "D:\\code\\C\\C\u8BED\u8A00\u5B9E\u73B0\u6570\u636E\u7ED3\u6784\\\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D\\List.cpp",
+              "RelativeDocumentMoniker": "List.cpp",
+              "ToolTip": "D:\\code\\C\\C\u8BED\u8A00\u5B9E\u73B0\u6570\u636E\u7ED3\u6784\\\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D\\List.cpp",
+              "RelativeToolTip": "List.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAHsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T12:16:20.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\code\\C\\C\u8BED\u8A00\u5B9E\u73B0\u6570\u636E\u7ED3\u6784\\\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\code\\C\\C\u8BED\u8A00\u5B9E\u73B0\u6570\u636E\u7ED3\u6784\\\u987A\u5E8F\u8868-\u52A8\u6001\u5206\u914D\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T12:50:47.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
